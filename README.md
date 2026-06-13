@@ -7,7 +7,7 @@
 
 ---
 
-##  The Problem
+## **The Problem**
 
 Quick-commerce customers are fundamentally different from traditional e-commerce shoppers. They arrive with an immediate, urgent need and expect to complete their purchase within seconds. 
 
